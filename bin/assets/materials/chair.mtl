@@ -1,0 +1,37 @@
+# Blender MTL File: 'Hans Olsen chair v05 Export.blend'
+# Material Count: 3
+
+newmtl Cushion
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Fabric.jpg
+
+newmtl Wood
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Wood_03_2K_Normal.png
+map_Kd Wood_03_2K_Base_Color.png
+
+newmtl Wood_backrest_seat
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.050000 Wood_03_2K_Normal.png
+map_Kd Wood_03_2K_Base_Color.png
